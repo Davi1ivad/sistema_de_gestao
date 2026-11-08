@@ -1,0 +1,8 @@
+.venv\Scripts\Activate.ps1 # no powershell
+
+streamlit run navegacao_page.py
+#ativar  o web
+python -m streamlit run app.py 
+ #ativar  o web
+
+Ctrl+C #desativar
